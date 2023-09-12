@@ -49,7 +49,7 @@ tests   contains the unittest test files
 CONTRIBUTORS:
 FATIMA ZOHRA
 
-.GITHUB:
+.GITHUB: Fatimazohra95
 
 MARYAM
 
