@@ -27,9 +27,15 @@ Quit command to exit the program
 (hbnb)
 (hbnb) quit
 How to run the unittest test files
+========================================
 run the following command to start
+
+
 git clone https://marylishop/AirBnB_clone.git
+
+
 cd AirBnB_clone
+
 python3 -m unittest discover tests
 ***
 ****
@@ -37,12 +43,15 @@ DIRECTORIES
 
 DIRECTORIES	CONTENT
 
-models	:contains BaseModel class and all other class that inherits from it
-our tests :	contains the main.py files that were used to test the codes
-tests	:contains the unittest test files
+models	  contains BaseModel class and all other class that inherits from it
+our tests   contains the main.py files that were used to test the codes
+tests   contains the unittest test files
 CONTRIBUTORS:
 FATIMA ZOHRA
+
 .GITHUB:
+
 MARYAM
+
 GITHUB: Marylishop
 
