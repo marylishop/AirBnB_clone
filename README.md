@@ -1,1 +1,60 @@
-{"payload":{"allShortcutsEnabled":false,"fileTree":{"":{"items":[{"name":"AUTHORS","path":"AUTHORS","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"}],"totalCount":2}},"fileTreeProcessingTime":1.396167,"foldersToFetch":[],"reducedMotionEnabled":null,"repo":{"id":689863439,"defaultBranch":"main","name":"AirBnB_clone","ownerLogin":"marylishop","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-09-11T04:18:23.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/127736868?v=4","public":true,"private":false,"isOrgOwned":false},"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"8e20bf5560e0678d7b774f8e70dd06813bb285e0","listCacheKey":"v0:1694406470.0","canEdit":false,"refType":"tree","currentOid":"8e20bf5560e0678d7b774f8e70dd06813bb285e0"},"path":"README.md","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/marylishop/AirBnB_clone/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null,"repoAlertsPath":"/marylishop/AirBnB_clone/security/dependabot","repoSecurityAndAnalysisPath":"/marylishop/AirBnB_clone/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"README.md","displayUrl":"https://github.com/marylishop/AirBnB_clone/blob/8e20bf5560e0678d7b774f8e70dd06813bb285e0/README.md?raw=true","headerInfo":{"blobSize":"1.38 KB","deleteInfo":{"deleteTooltip":"You must be signed in to make or propose changes"},"editInfo":{"editTooltip":"You must be signed in to make or propose changes"},"ghDesktopPath":null,"gitLfsPath":null,"onBranch":false,"shortPath":"a843701","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fmarylishop%2FAirBnB_clone%2Fblob%2F8e20bf5560e0678d7b774f8e70dd06813bb285e0%2FREADME.md","isCSV":false,"isRichtext":true,"toc":[{"level":1,"text":"Documented commands (type help ):","anchor":"documented-commands-type-help-","htmlText":"Documented commands (type help ):"},{"level":1,"text":"(hbnb)\n(hbnb)\n(hbnb) quit\nHow to run the unittest test files","anchor":"hbnbhbnbhbnb-quithow-to-run-the-unittest-test-files","htmlText":"(hbnb)\n(hbnb)\n(hbnb) quit\nHow to run the unittest test files"}],"lineInfo":{"truncatedLoc":"57","truncatedSloc":"41"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":"Markdown","languageID":222,"large":false,"loggedIn":false,"newDiscussionPath":"/marylishop/AirBnB_clone/discussions/new","newIssuePath":"/marylishop/AirBnB_clone/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/marylishop/AirBnB_clone/blob/8e20bf5560e0678d7b774f8e70dd06813bb285e0/README.md","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/marylishop/AirBnB_clone/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":false,"richText":"<article class=\"markdown-body entry-content container-lg\" itemprop=\"text\"><p dir=\"auto\">AirBnB Clone\n<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://user-images.githubusercontent.com/127736868/267309578-51fd2f28-9b0a-4271-b360-f6b89bd37af7.png\"><img src=\"https://user-images.githubusercontent.com/127736868/267309578-51fd2f28-9b0a-4271-b360-f6b89bd37af7.png\" alt=\"68747470733a2f2f7777772e706e676974656d2e636f6d2f70696d67732f6d2f3133322d313332323132355f7472616e73706172656e742d6261636b67726f756e642d616972626e622d6c6f676f2d68642d706e672d646f776e6c6f61642e706e67\" style=\"max-width: 100%;\"></a>\nAirBnB clone is a team of two project to clone AirBnB website</p>\n<p dir=\"auto\">The Project will start with console interpreter to perform some operations that include;</p>\n<p dir=\"auto\">create: Create a new object from the base object\nretrieve: Retrieve an object from a file\ndo: Performs an operation\ndestroy: Destroy an object\nHow to start\nRun the following command to start\n./console.py\nUsage and Examples:\n./console.py\n(hbnb) help</p>\n<h1 tabindex=\"-1\" dir=\"auto\"><a id=\"user-content-documented-commands-type-help-\" class=\"anchor\" aria-hidden=\"true\" tabindex=\"-1\" href=\"#documented-commands-type-help-\"><svg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a>Documented commands (type help ):</h1>\n<p dir=\"auto\">EOF  help  quit</p>\n<p dir=\"auto\">(hbnb)\n(hbnb) help quit\nQuit command to exit the program</p>\n<h1 tabindex=\"-1\" dir=\"auto\"><a id=\"user-content-hbnbhbnbhbnb-quithow-to-run-the-unittest-test-files\" class=\"anchor\" aria-hidden=\"true\" tabindex=\"-1\" href=\"#hbnbhbnbhbnb-quithow-to-run-the-unittest-test-files\"><svg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"><path d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"></path></svg></a>(hbnb)\n(hbnb)\n(hbnb) quit\nHow to run the unittest test files</h1>\n<p dir=\"auto\">run the following command to start</p>\n<p dir=\"auto\">git clone <a href=\"https://marylishop/AirBnB_clone.git\" rel=\"nofollow\">https://marylishop/AirBnB_clone.git</a></p>\n<p dir=\"auto\">cd AirBnB_clone</p>\n<p dir=\"auto\">python3 -m unittest discover tests</p>\n<hr>\n<hr>\n<p dir=\"auto\">DIRECTORIES</p>\n<p dir=\"auto\">DIRECTORIES\tCONTENT</p>\n<p dir=\"auto\">models\t  contains BaseModel class and all other class that inherits from it\nour tests   contains the main.py files that were used to test the codes\ntests   contains the unittest test files\nCONTRIBUTORS:\nFATIMA ZOHRA</p>\n<p dir=\"auto\">.GITHUB:</p>\n<p dir=\"auto\">MARYAM</p>\n<p dir=\"auto\">GITHUB: Marylishop</p>\n</article>","renderedFileInfo":null,"shortPath":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"marylishop","repoName":"AirBnB_clone","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":true,"symbols":[]}},"copilotInfo":null,"csrf_tokens":{"/marylishop/AirBnB_clone/branches":{"post":"zDa8bE8v2pIljuHclKz7gJ9PxVpFvVwQGSPsJeq-aTDILQI2kIVqwG80oBh1fCricj82Gt5VYZ-SOWoMksHDUw"},"/repos/preferences":{"post":"f63fo8g9COQm53WWJ9FIEURynvW_bju93ncBpJu44VRjlfy27OMAC-T2SEsBNZuym0Xx-NUP5m_nJWKqMMzyFw"}}},"title":"AirBnB_clone/README.md at 8e20bf5560e0678d7b774f8e70dd06813bb285e0 · marylishop/AirBnB_clone"}
+
+=======
+AirBnB Clone 
+![68747470733a2f2f7777772e706e676974656d2e636f6d2f70696d67732f6d2f3133322d313332323132355f7472616e73706172656e742d6261636b67726f756e642d616972626e622d6c6f676f2d68642d706e672d646f776e6c6f61642e706e67](https://github.com/marylishop/AirBnB_clone/assets/127736868/51fd2f28-9b0a-4271-b360-f6b89bd37af7)
+AirBnB clone is a team of two project to clone AirBnB website
+
+The Project will start with console interpreter to perform some operations that include;
+
+create: Create a new object from the base object
+retrieve: Retrieve an object from a file
+do: Performs an operation
+destroy: Destroy an object
+How to start
+Run the following command to start
+./console.py
+Usage and Examples:
+ ./console.py
+(hbnb) help
+
+Documented commands (type help <topic>):
+========================================
+EOF  help  quit
+
+(hbnb)
+(hbnb) help quit
+Quit command to exit the program
+
+(hbnb)
+(hbnb)
+(hbnb) quit
+How to run the unittest test files
+========================================
+run the following command to start
+
+
+git clone https://marylishop/AirBnB_clone.git
+
+
+cd AirBnB_clone
+
+python3 -m unittest discover tests
+***
+****
+DIRECTORIES
+
+DIRECTORIES	CONTENT
+
+models	  contains BaseModel class and all other class that inherits from it
+our tests   contains the main.py files that were used to test the codes
+tests   contains the unittest test files
+CONTRIBUTORS:
+FATIMA ZOHRA
+
+.GITHUB:
+
+MARYAM
+
+GITHUB: Marylishop
+
+>>>>>>> refs/remotes/origin/main
