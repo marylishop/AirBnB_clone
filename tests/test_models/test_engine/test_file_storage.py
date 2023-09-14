@@ -143,4 +143,4 @@ class test_storage(unittest.TestCase):
         self.assertTrue(obj5_key in storage.all().keys())
         self.assertEqual(obj5.id, storage.all()[obj5_key].id)
         self.assertTrue(obj6_key in storage.all().keys())
-        self.assertEqual(obj6.id, storage.all()[obj6_
+        self.assertEqual(obj6.id, storage.all()[obj6_key].id)
