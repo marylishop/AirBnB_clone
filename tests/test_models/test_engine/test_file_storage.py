@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Check Filestorage class """
+"""Check Filestorage class."""
 import unittest
 from os import path
 from models import storage
