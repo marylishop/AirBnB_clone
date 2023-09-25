@@ -6,8 +6,6 @@ footer {
     flex: none;
     border-top: 1px solid #CCCCCC;
     background-color: white;
-    
-}
-.style{
-   text-align: center; 
+    align-items: center;
+
 }

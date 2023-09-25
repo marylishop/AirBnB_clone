@@ -64,7 +64,7 @@ div.information div.max_guest, div.information div.number_rooms, div.information
     line-height: 9em;
 }
 div.information div.max_guest {
-    background-image: url(../images/icon_group.png);
+    background-image: url(../images/group_icon.png);
 }
 div.information div.number_rooms {
     background-image: url(../images/icon_bed.png);
@@ -76,4 +76,8 @@ div.information div.number_bathrooms {
 .user, .description {
     font-size: 14px;
     margin: 2px 0px;
+}
+
+footer{
+    text-align: center;
 }
